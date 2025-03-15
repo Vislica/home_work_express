@@ -1,0 +1,27 @@
+{
+  "name": "home_work_express",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Vislica/home_work_express#readme",
+  "bugs": {
+    "url": "https://github.com/Vislica/home_work_express/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vislica/home_work_express.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "dev": "nodemon main.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
